@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows桌面小工具", "资源获取\Windows桌面小工具.csproj", "{E4F89B30-C29D-48C8-B736-4735640EC094}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "桌面小工具", "桌面小工具\桌面小工具.vdproj", "{74639FE7-99EE-4DBA-97E4-76AF6A65BA12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4F89B30-C29D-48C8-B736-4735640EC094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F89B30-C29D-48C8-B736-4735640EC094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F89B30-C29D-48C8-B736-4735640EC094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F89B30-C29D-48C8-B736-4735640EC094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74639FE7-99EE-4DBA-97E4-76AF6A65BA12}.Debug|Any CPU.ActiveCfg = Debug
+		{74639FE7-99EE-4DBA-97E4-76AF6A65BA12}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B9C305B-BE27-4DA1-A47A-A4F4CB6554B9}
+	EndGlobalSection
+EndGlobal
